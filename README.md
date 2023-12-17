@@ -4,7 +4,9 @@ On Dec 16th, 2023 I've given a talk on the topic of "How to Get into Web3 Sec: A
 
 
 ## Note
-- I've used "Remix - An Ethereum IDE" for demonstration purpose as it is simple to use and deploy contracts. If you want to learn in depth, I recommend you to start learning "Foundry - Development Framework for solidity and EVM based" as you'll understand how it works. 
+- I've used "Remix - An Ethereum IDE" for demonstration purpose as it is simple to use and deploy contracts. If you want to learn in depth, I recommend you to start learning "Foundry - Development Framework for solidity and EVM based" as you'll understand how it works.
+
+- Copy paste the "Defcon-1 & Defcon-2" codes into your REMIX and try to understand what's going on by actually deploying it by yourself. 
 
 ### Links 
 
